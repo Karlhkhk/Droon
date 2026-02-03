@@ -42,5 +42,9 @@ Ziptied ehk kaablisidemed on praktilised ja kerged kinnitused juhtmete ja kompon
 
 
 ### Probleemid ja lahendused
-
+* Flight kontrollerid
+  Testisin mitud
+Escid ja mootorid ei töötanud õigesti ja 
 ### Pildid ja videod
+* [Drooni testimine](https://www.youtube.com/shorts/CJcLehN5wD8?feature=share)
+* [FPV simulaatoriga harjutamine](https://www.youtube.com/shorts/0b2WTnB_t5s)
